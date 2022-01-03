@@ -1,0 +1,16 @@
+C:\Users\Kevin Wilson\source\repos\Outguess\Outguess\bin\Debug\net5.0\Outguess.exe
+C:\Users\Kevin Wilson\source\repos\Outguess\Outguess\bin\Debug\net5.0\Outguess.deps.json
+C:\Users\Kevin Wilson\source\repos\Outguess\Outguess\bin\Debug\net5.0\Outguess.runtimeconfig.json
+C:\Users\Kevin Wilson\source\repos\Outguess\Outguess\bin\Debug\net5.0\Outguess.runtimeconfig.dev.json
+C:\Users\Kevin Wilson\source\repos\Outguess\Outguess\bin\Debug\net5.0\Outguess.dll
+C:\Users\Kevin Wilson\source\repos\Outguess\Outguess\bin\Debug\net5.0\ref\Outguess.dll
+C:\Users\Kevin Wilson\source\repos\Outguess\Outguess\bin\Debug\net5.0\Outguess.pdb
+C:\Users\Kevin Wilson\source\repos\Outguess\Outguess\obj\Debug\net5.0\Outguess.csproj.AssemblyReference.cache
+C:\Users\Kevin Wilson\source\repos\Outguess\Outguess\obj\Debug\net5.0\Outguess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin Wilson\source\repos\Outguess\Outguess\obj\Debug\net5.0\Outguess.AssemblyInfoInputs.cache
+C:\Users\Kevin Wilson\source\repos\Outguess\Outguess\obj\Debug\net5.0\Outguess.AssemblyInfo.cs
+C:\Users\Kevin Wilson\source\repos\Outguess\Outguess\obj\Debug\net5.0\Outguess.csproj.CoreCompileInputs.cache
+C:\Users\Kevin Wilson\source\repos\Outguess\Outguess\obj\Debug\net5.0\Outguess.dll
+C:\Users\Kevin Wilson\source\repos\Outguess\Outguess\obj\Debug\net5.0\ref\Outguess.dll
+C:\Users\Kevin Wilson\source\repos\Outguess\Outguess\obj\Debug\net5.0\Outguess.pdb
+C:\Users\Kevin Wilson\source\repos\Outguess\Outguess\obj\Debug\net5.0\Outguess.genruntimeconfig.cache
