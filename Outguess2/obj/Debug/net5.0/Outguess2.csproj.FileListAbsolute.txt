@@ -1,0 +1,16 @@
+C:\Users\getti\source\repos\Outguess2\bin\Debug\net5.0\Outguess2.exe
+C:\Users\getti\source\repos\Outguess2\bin\Debug\net5.0\Outguess2.deps.json
+C:\Users\getti\source\repos\Outguess2\bin\Debug\net5.0\Outguess2.runtimeconfig.json
+C:\Users\getti\source\repos\Outguess2\bin\Debug\net5.0\Outguess2.runtimeconfig.dev.json
+C:\Users\getti\source\repos\Outguess2\bin\Debug\net5.0\Outguess2.dll
+C:\Users\getti\source\repos\Outguess2\bin\Debug\net5.0\ref\Outguess2.dll
+C:\Users\getti\source\repos\Outguess2\bin\Debug\net5.0\Outguess2.pdb
+C:\Users\getti\source\repos\Outguess2\obj\Debug\net5.0\Outguess2.csproj.AssemblyReference.cache
+C:\Users\getti\source\repos\Outguess2\obj\Debug\net5.0\Outguess2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\getti\source\repos\Outguess2\obj\Debug\net5.0\Outguess2.AssemblyInfoInputs.cache
+C:\Users\getti\source\repos\Outguess2\obj\Debug\net5.0\Outguess2.AssemblyInfo.cs
+C:\Users\getti\source\repos\Outguess2\obj\Debug\net5.0\Outguess2.csproj.CoreCompileInputs.cache
+C:\Users\getti\source\repos\Outguess2\obj\Debug\net5.0\Outguess2.dll
+C:\Users\getti\source\repos\Outguess2\obj\Debug\net5.0\ref\Outguess2.dll
+C:\Users\getti\source\repos\Outguess2\obj\Debug\net5.0\Outguess2.pdb
+C:\Users\getti\source\repos\Outguess2\obj\Debug\net5.0\Outguess2.genruntimeconfig.cache
